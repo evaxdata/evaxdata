@@ -1,14 +1,18 @@
-## Hi there 👋 I'm Linda Eva 
+## 👋 Hi, I’m Linda Eva
 
-🎓 Business Analytics student at Seneca College  
-📊 Interested in data governance, analytics, and reporting  
+🎓 Business Analytics Student @ Seneca College  
+📊 Building privacy-aware, business-focused data solutions  
 🌍 Based in Canada  
-💡 Growing practical skills in SQL, Power BI, Python, and Excel  
 
-- 🌱 I’m currently learning data analytics and governance
-- 💬 Ask me about my transition into business analytics
-- 🤝 I’m open to connecting with others in data and tech
-- 📚 I’m building a strong foundation in tools, reporting, and data-focused thinking
+I help translate data into clear, actionable insights — combining SQL, Power BI, Python, and reporting with a strong focus on data governance and real-world business impact.
 
-### 🔗 Links
-[Portfolio](https://evaxdata.github.io/) • [LinkedIn](https://www.linkedin.com/in/linda-eva-seuna/)
+---
+
+### 🛠️ Tech Stack
+`SQL` · `Power BI` · `Python` · `Excel` · `Data Governance`
+
+---
+
+### 🔗 Connect with me
+- 🌐 Portfolio: https://evaxdata.github.io  
+- 💼 LinkedIn: https://linkedin.com/in/linda-eva-seuna  
