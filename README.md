@@ -9,6 +9,8 @@
 
 ![building](https://img.shields.io/badge/Building-Privacy--aware_Data_Solutions-4ECDC4?style=flat-square&labelColor=002e2c&color=4ECDC4)
 
+![Glocal](https://img.shields.io/badge/Shaping_Data_%26_Privacy_Projects-GLOCAL_Foundation-F7B267?style=flat-square&labelColor=4a2a00&color=F7B267)
+
 
 
 
