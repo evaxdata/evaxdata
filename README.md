@@ -4,8 +4,6 @@
 📊 Building privacy-aware, business-focused data solutions  
 🌍 Based in Canada  
 
-I help translate data into clear, actionable insights — combining SQL, Power BI, Python, and reporting with a strong focus on data governance and real-world business impact.
-
 ---
 
 ### 🛠️ Tech Stack
