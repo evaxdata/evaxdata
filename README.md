@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Tech Stack
 `SQL` · `Power BI` · `Python` · `Excel` · `Data Governance`
 
 ---
