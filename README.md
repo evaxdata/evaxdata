@@ -6,5 +6,5 @@
 
 ![glocal](https://img.shields.io/badge/Supporting_Data_%26_Privacy_Work-GLOCAL_Foundation-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)
 
-[![portfolio](https://img.shields.io/badge/Portfolio-evaxdata.github.io-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)](https://evaxdata.github.io)
+[![portfolio](https://img.shields.io/badge/View_My_Portfolio-evaxdata.github.io-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)](https://evaxdata.github.io)
 
