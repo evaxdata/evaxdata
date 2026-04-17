@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Linda Eva
 
-![studying](https://img.shields.io/badge/Currently_studying-Business_Analytics_%40_Seneca-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)
+![studying](https://img.shields.io/badge/Currently_studying-Business_Analytics_%40_Seneca_Polytechnic-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)
 
 ![building](https://img.shields.io/badge/Building-Privacy--aware_Data_Solutions-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)
 
