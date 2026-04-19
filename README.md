@@ -2,7 +2,7 @@
 
 ![studying](https://img.shields.io/badge/Currently_Studying-Business_Analytics_%40_Seneca_Polytechnic-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)
 
-![glocal](https://img.shields.io/badge/Data_%26_Privacy_Support-_@_GLOCAL_Foundation-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)
+![glocal](https://img.shields.io/badge/Data_%26_Privacy_Contributor-_@_GLOCAL_Foundation-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)
 
 ![turning](https://img.shields.io/badge/Turning-Raw%20Data%20Into%20Privacy--Aware%20Data%20Solutions-F5C842?style=flat-square&labelColor=3a2800&color=F5C842)
 
