@@ -2,5 +2,5 @@
 
 ![studying](https://img.shields.io/badge/Currently_Studying-Business_Analytics_%40_Seneca_Polytechnic-FBE8D4?style=flat-square&labelColor=D87229&color=FBE8D4)
 ![glocal](https://img.shields.io/badge/Data_%26_Privacy_Contributor-_@_GLOCAL_Foundation-FBE8D4?style=flat-square&labelColor=F5C89A&color=FBE8D4)
-![turning](https://img.shields.io/badge/Turning-Messy%20Business%20Data%20Into%20Trusted%20Data%20Assets-FBE8D4?style=flat-square&labelColor=D87229&color=FBE8D4)
+![building](https://img.shields.io/badge/Building-Privacy%20Aware%20Data%20Solutions-FBE8D4?style=flat-square&labelColor=D87229&color=FBE8D4)
 [![portfolio](https://img.shields.io/badge/View_My_Portfolio-evaxdata.github.io_&#8594;_-FBE8D4?style=flat-square&labelColor=F5C89A&color=FBE8D4)](https://evaxdata.github.io)
