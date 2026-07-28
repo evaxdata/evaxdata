@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/GitHub-lindaxeva-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://medium.com/@lindaxeva">
-    <img src="https://img.shields.io/badge/Medium-@YOUR_HANDLE-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-LindaxEva-7C3AED?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
 
