@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Data%20Governance-9333EA?style=flat-square" alt="Data Governance">
   <img src="https://img.shields.io/badge/Data%20Privacy-B91C1C?style=flat-square" alt="Data Privacy">
   <img src="https://img.shields.io/badge/Data%20Analytics-0F766E?style=flat-square" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/AI%20Automation-2563EB?style=flat-square" alt="AI Automation">
 </p>
 
 ---
