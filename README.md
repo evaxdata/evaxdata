@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=210&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Need%20help%20turning%20your%20business%20needs%20and%20data%20into%20strategic%20solutions?%20Let's%20work%20together!&descAlignY=61&descSize=16" width="100%" alt="Linda Eva Seuna profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=210&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Need%20help%20turning%20your%20business%20needs%20and%20data%20into%20strategic%20automation%20solutions?%20Let's%20work%20together!&descAlignY=61&descSize=16" width="100%" alt="Linda Eva Seuna profile banner" />
 </p>
 
 ## ℹ️ About Me
