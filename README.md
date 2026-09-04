@@ -4,8 +4,6 @@
 
 ## ℹ️ About Me
 
-📄 Learn more about **my professional profile**: [View Resume >>](https://docs.google.com/document/d/1QOfYXELtYjp8BiaHJ4neF4xTBJcRhmfh6nc0xB0rbRo/edit?usp=sharing)
-
 🌱 **Kaizen-minded**: committed to continuous learning and steady improvement
 
 👥 **Membership**: Women in Data, Datathon 2026 participant
