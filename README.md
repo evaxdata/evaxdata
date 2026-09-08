@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=210&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Turning%20business%20needs,%20processes,%20and%20data%20into%20strategic%20solutions.&descAlignY=61&descSize=16" width="100%" alt="Linda Eva Seuna profile banner" />
 </p>
 
-## 🛠️ Focus Areas
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Business%20Analysis-2563EB?style=flat-square" alt="Business Analysis">
   <img src="https://img.shields.io/badge/Data%20Quality-7C3AED?style=flat-square" alt="Data Quality">
   <img src="https://img.shields.io/badge/Data%20Governance-9333EA?style=flat-square" alt="Data Governance">
