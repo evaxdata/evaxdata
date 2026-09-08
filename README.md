@@ -6,8 +6,6 @@
 
 🌱 **Kaizen-minded**: committed to continuous learning and steady improvement
 
-👥 **Membership**: Women in Data, Datathon 2026 participant
-
 📍 Canada, Ontario
 
 ---
