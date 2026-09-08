@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=210&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Turning%20business%20needs,%20processes,%20and%20data%20into%20strategic%20solutions.&descAlignY=61&descSize=16" width="100%" alt="Linda Eva Seuna profile banner" />
 </p>
 
-## ℹ️ About Me
-
-🌱 **Kaizen-minded**: committed to continuous learning and steady improvement
-
-📍 Canada, Ontario
-
----
-
 ## 🛠️ Focus Areas
 
 <p>
